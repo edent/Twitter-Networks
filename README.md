@@ -3,6 +3,7 @@ Create a directed network of Twitter followers.
 Based on https://shkspr.mobi/blog/2015/03/this-is-what-a-graph-of-8000-fake-twitter-accounts-looks-like/
 
 These scripts work in three parts.
+
 1. Taking an initial user, download information about who they follow. Repeat recursively.
 2. Generate a directed graph.
 3. Draw an image of the graph.
