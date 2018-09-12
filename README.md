@@ -8,6 +8,9 @@ These scripts work in three parts.
 2. Generate a directed graph.
 3. Draw an image of the graph.
 
+[![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/edent)
+
+
 ## Usage
 
 ### Extract The Information
